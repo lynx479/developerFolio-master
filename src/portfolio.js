@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Saud Abdul Latheef",
-  title: "Hi all, I am Saud Abdul Latheef",
+  title: "Hi all, I am Saaaaud",
   subTitle: emoji(
     "not a passionate software developer... 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "pottan ayirunn njaaann..",
+  subTitle: "no idea yanthoo cheyum?..",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
