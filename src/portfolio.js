@@ -23,7 +23,7 @@ const greeting = {
   username: "Saud Abdul Latheef",
   title: "Hi all, I am Saaaaud",
   subTitle: emoji(
-    "not a passionate software developer... 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "not a passionate software developer... 🚀 Not having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "no idea yanthoo cheyum?..",
+  subTitle: "currently onnum cheyunn illaaaa?..",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -132,16 +132,16 @@ const educationInfo = {
       duration: "September 2020 - May 2024",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "studied in MES INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+        "KOLLAM ,KERALA,INDIA"
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Indian School of Certficate",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      subHeader: "Higher Secondary Education",
+      duration: "April 2018 - May 2020",
+      desc: "Ranked from bottom top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -174,10 +174,10 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      role: "IT Support Engineer",
+      company: "Rieker",
+      companylogo: require("./assets/images/Rieker Logo Svg (1).png"),
+      date: "July 2024 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
