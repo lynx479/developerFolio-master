@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "APJ Abdul Kalam technological unviversity",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/APJ_Abdul_Kalam_Technological_University_logo.png"),
       subHeader: "B.Tech in Computer Science & Engineering",
       duration: "September 2020 - May 2024",
       desc: "Participated .",
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "Indian School of Certficate",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/CISCE_logo.png"),
       subHeader: "Higher Secondary Education",
       duration: "April 2018 - May 2020",
       desc: " ...",
@@ -185,10 +185,10 @@ const workExperiences = {
       ]
     },
     {
-      role: "under development",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Web developer",
+      company: "Keltron",
+      companylogo: require("./assets/images/Keltron_logo.png"),
+      date: "Aug 2023 – Oct 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
