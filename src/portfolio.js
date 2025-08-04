@@ -187,7 +187,7 @@ const workExperiences = {
     {
       role: "Web developer",
       company: "Keltron",
-      companylogo: require("./assets/images/Keltron_logo.png"),
+      companylogo: require("./assets/images/keltron2.png"),
       date: "Aug 2023 – Oct 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
