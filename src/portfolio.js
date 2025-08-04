@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: "Saud Abdul Latheef",
-  title: "Hi all, I am Saaaaud",
+  title: "Hi all, I am Saud",
   subTitle: emoji(
     "A passionate software developer... 🚀  Having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "./assets/images/doc/Saud's Resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "currently onnum cheyunn illaaaa?..",
+  subTitle: "ahaaaaaa nothing!..",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/APJ_Abdul_Kalam_Technological_University_logo.png"),
       subHeader: "B.Tech in Computer Science & Engineering",
       duration: "September 2020 - May 2024",
-      desc: "Participated .",
+      desc: "B.Tech in Computer Science — Studied programming, algorithms, data structures, software development, and emerging technologies such as AI, machine learning, and cybersecurity, with hands‑on experience through projects, labs, and internships.",
       descBullets: [
         "studied in MES INSTITUTE OF TECHNOLOGY & MANAGEMENT",
         "KOLLAM ,KERALA,INDIA"
