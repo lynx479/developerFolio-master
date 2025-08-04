@@ -255,7 +255,7 @@ const achievementSection = {
       title: "under development",
       subtitle:
         "under development.",
-      image: require("./assets/images/cisco.png"),
+      image: require("./assets/images/aws.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -276,7 +276,7 @@ const achievementSection = {
       title: "under development",
       subtitle:
         "under development",
-      image: require("./assets/images/Coursera-Logo.png"),
+      image: require("./assets/images/gcp.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -289,7 +289,7 @@ const achievementSection = {
     {
       title: " Web App Developer",
       subtitle: "under development",
-      image: require("./assets/images/udemy-new-logo.webp"),
+      image: require("./assets/images/azure.svg"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
