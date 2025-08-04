@@ -289,7 +289,7 @@ const achievementSection = {
     {
       title: " Web App Developer",
       subtitle: "under development",
-      image: require("./assets/images/azure.svg"),
+      image: require("./assets/images/azure.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
