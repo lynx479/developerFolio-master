@@ -252,7 +252,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "under development",
+      title: "AWS CLOUD PLATFORM",
       subtitle:
         "under development.",
       image: require("./assets/images/aws.png"),
@@ -273,7 +273,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "under development",
+      title: "GOOGLE CLOUD PLATFORM",
       subtitle:
         "under development",
       image: require("./assets/images/gcp.webp"),
@@ -287,9 +287,9 @@ const achievementSection = {
     },
 
     {
-      title: " Web App Developer",
+      title: " AZURE CLOUD PLATFORM",
       subtitle: "under development",
-      image: require("./assets/images/azure.png"),
+      image: require("./assets/images/azure4.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
